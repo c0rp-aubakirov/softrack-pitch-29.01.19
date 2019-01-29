@@ -114,4 +114,4 @@ Note:
 - Тимбилдинги
 - Закупим оборудование
 
-+++?image=assets/images/time.jpg&size=auto 100%
++++?image=assets/images/time.png&size=auto 100%
